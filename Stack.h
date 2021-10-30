@@ -43,5 +43,3 @@ class Stack {
     int top() const { return S_top; }
     int size() const { return S_size; }
 };
-
-// Stack<T> constructor
